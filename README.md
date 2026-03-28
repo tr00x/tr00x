@@ -44,9 +44,9 @@ I've built the **#1 streaming platform** and **national messaging app** for an e
 <sub>12 AI agents · self-healing Docker<br/>CRM sync · Telegram HQ · watchdog<br/>Open-source on GitHub</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/🧪-059669?style=for-the-badge" /><br/>
-<b>AI Avatar R&D</b><br/>
-<sub>Real-time lip sync · face rendering<br/>Voice cloning · 30+ tools evaluated<br/>Zero third-party API dependency</sub>
+<img src="https://img.shields.io/badge/🧠-18FFFF?style=for-the-badge" /><br/>
+<b><a href="https://github.com/tr00x/SOMA-Core">SOMA Core</a></b><br/>
+<sub>Nervous system for AI agents<br/>Behavioral monitoring · Pressure graphs<br/>Directive control · 371 tests · MIT</sub>
 </td>
 </tr>
 </table>
@@ -59,6 +59,11 @@ I've built the **#1 streaming platform** and **national messaging app** for an e
 <div align="center">
 <table>
 <tr>
+<td align="center" width="25%">
+<a href="https://github.com/tr00x/SOMA-Core"><img src="https://img.shields.io/badge/SOMA_Core-18FFFF?style=flat-square" /></a><br/>
+<b><a href="https://github.com/tr00x/SOMA-Core">SOMA Core</a></b><br/>
+<sub>Nervous system for AI agents<br/>Behavioral monitoring · Pressure<br/>371 tests · 100% coverage</sub>
+</td>
 <td align="center" width="25%">
 <a href="https://face2.me"><img src="https://img.shields.io/badge/face2.me-FF6B35?style=flat-square" /></a><br/>
 <b><a href="https://face2.me">face2.me</a></b><br/>
@@ -73,11 +78,6 @@ I've built the **#1 streaming platform** and **national messaging app** for an e
 <a href="https://github.com/tr00x/Kiosk-AI-Agent-Avatar-Tavus"><img src="https://img.shields.io/badge/AI_Kiosk-10B981?style=flat-square" /></a><br/>
 <b><a href="https://github.com/tr00x/Kiosk-AI-Agent-Avatar-Tavus">AI Kiosk (Tavus)</a></b><br/>
 <sub>Clinic check-in<br/>Video avatar · Voice</sub>
-</td>
-<td align="center" width="25%">
-<a href="https://github.com/tr00x/Kiosk-AI-Agent-Avatar"><img src="https://img.shields.io/badge/AI_Kiosk-3B82F6?style=flat-square" /></a><br/>
-<b><a href="https://github.com/tr00x/Kiosk-AI-Agent-Avatar">AI Kiosk (Pipecat)</a></b><br/>
-<sub>GPT-4o · Simli<br/>Lip-sync · WebRTC</sub>
 </td>
 </tr>
 <tr>
