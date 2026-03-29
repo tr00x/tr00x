@@ -46,10 +46,67 @@ I've built the **#1 streaming platform** and **national messaging app** for an e
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/🧠-18FFFF?style=for-the-badge" /><br/>
 <b><a href="https://github.com/tr00x/SOMA-Core">SOMA Core</a></b><br/>
-<sub>Nervous system for AI agents<br/>Behavioral monitoring · Pressure graphs<br/>Directive control · 371 tests · MIT</sub>
+<sub>Nervous system for AI agents<br/>Behavioral monitoring · Pressure graphs<br/>Directive control · 524 tests · MIT</sub>
 </td>
 </tr>
 </table>
+</div>
+
+<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"></div>
+
+## 🧠 SOMA — System of Oversight and Monitoring for Agents
+
+<div align="center">
+
+<a href="https://github.com/tr00x/SOMA-Core"><img src="https://raw.githubusercontent.com/tr00x/SOMA-Core/main/.github/soma-banner.gif" width="100%" /></a>
+
+<br/>
+
+[![PyPI](https://img.shields.io/pypi/v/soma-ai?style=for-the-badge&color=00ff88&label=PyPI)](https://pypi.org/project/soma-ai/)
+[![Tests](https://img.shields.io/badge/tests-524%20passed-00ff88?style=for-the-badge)](https://github.com/tr00x/SOMA-Core)
+[![License](https://img.shields.io/github/license/tr00x/SOMA-Core?style=for-the-badge&color=00ff88)](https://github.com/tr00x/SOMA-Core/blob/main/LICENSE)
+
+**The nervous system for AI agents.** Real-time behavioral monitoring, predictive intervention, and autonomous safety control.
+
+SOMA computes a unified **pressure metric** from 5 behavioral signals, applies progressive intervention through a **6-level escalation ladder** with hysteresis, and **self-tunes** thresholds via outcome-tracking learning. Zero LLM calls. Pure deterministic math in <1ms.
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+**Core Engine**
+- 5 behavioral signals (uncertainty, drift, error, cost, tokens)
+- Z-score normalization + sigmoid clamping
+- EMA baselines with cold-start blending
+- Pressure prediction ~5 actions ahead
+- Self-learning threshold adaptation
+
+</td>
+<td width="50%">
+
+**Enterprise & Multi-Agent**
+- Trust-weighted pressure propagation graph
+- Jensen-Shannon divergence fingerprinting
+- Root cause analysis in plain English
+- Task phase detection & scope drift
+- Budget management with auto SAFE_MODE
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+```
+pip install soma-ai
+```
+
+**Actively developing — contributors welcome!** Check out the [open issues](https://github.com/tr00x/SOMA-Core/issues) or read the [Research Paper](https://github.com/tr00x/SOMA-Core/blob/main/docs/PAPER.md).
+
+[**Research Paper**](https://github.com/tr00x/SOMA-Core/blob/main/docs/PAPER.md) · [**Technical Spec**](https://github.com/tr00x/SOMA-Core/blob/main/docs/TECHNICAL.md) · [**API Reference**](https://github.com/tr00x/SOMA-Core/blob/main/docs/api.md) · [**GitHub**](https://github.com/tr00x/SOMA-Core)
+
 </div>
 
 <div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"></div>
@@ -62,7 +119,7 @@ I've built the **#1 streaming platform** and **national messaging app** for an e
 <td align="center" width="25%">
 <a href="https://github.com/tr00x/SOMA-Core"><img src="https://img.shields.io/badge/SOMA_Core-18FFFF?style=flat-square" /></a><br/>
 <b><a href="https://github.com/tr00x/SOMA-Core">SOMA Core</a></b><br/>
-<sub>Nervous system for AI agents<br/>Behavioral monitoring · Pressure<br/>371 tests · 100% coverage</sub>
+<sub>Nervous system for AI agents<br/>Behavioral monitoring · Pressure<br/>524 tests · 100% coverage</sub>
 </td>
 <td align="center" width="25%">
 <a href="https://face2.me"><img src="https://img.shields.io/badge/face2.me-FF6B35?style=flat-square" /></a><br/>
