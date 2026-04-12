@@ -159,6 +159,22 @@ pip install soma-ai
 <sub>NestJS · GPS<br/>anti-fraud · PWA</sub>
 </td>
 </tr>
+<tr>
+<td align="center" colspan="2">
+<a href="https://github.com/tr00x/MiniPACS"><img src="https://img.shields.io/badge/MiniPACS-2563EB?style=flat-square" /></a><br/>
+<b><a href="https://github.com/tr00x/MiniPACS">MiniPACS</a></b><br/>
+<sub>Self-hosted PACS portal · DICOM<br/>HIPAA · React · FastAPI · OHIF Viewer<br/>Patient sharing · QR · PIN · Reports</sub>
+</td>
+<td align="center" colspan="2">
+<sub>
+🏥 Full medical imaging system for clinics<br/>
+📡 DICOM C-STORE receive & transfer<br/>
+🔬 Built-in OHIF web viewer<br/>
+🔗 Patient portal with QR sharing<br/>
+🔒 HIPAA-compliant audit & security
+</sub>
+</td>
+</tr>
 </table>
 </div>
 
