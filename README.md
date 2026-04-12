@@ -111,6 +111,57 @@ pip install soma-ai
 
 <div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"></div>
 
+## 🏥 MiniPACS — Medical Imaging Portal
+
+<div align="center">
+
+[![DICOM](https://img.shields.io/badge/DICOM-C--STORE_%7C_DICOMweb-2563EB?style=for-the-badge)](https://github.com/tr00x/MiniPACS)
+[![HIPAA](https://img.shields.io/badge/HIPAA-compliant-22C55E?style=for-the-badge)](https://github.com/tr00x/MiniPACS)
+[![License](https://img.shields.io/badge/license-BSL_1.1-F59E0B?style=for-the-badge)](https://github.com/tr00x/MiniPACS/blob/master/LICENSE)
+
+**Self-hosted PACS portal for independent medical clinics.** Receive DICOM studies from equipment, view in a web browser, share with patients, transfer to other facilities.
+
+One server. Zero recurring fees. Your data stays in your clinic.
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+**Clinical Workflow**
+- DICOM C-STORE receive from MRI/CT/X-ray equipment
+- Built-in OHIF web viewer with fullscreen mode
+- Study transfers to other PACS nodes with retry
+- Radiology reports (text + PDF) attached to studies
+- Server-side search, filtering, pagination
+
+</td>
+<td width="50%">
+
+**Patient Portal & Security**
+- Secure share links with QR codes and PIN protection
+- Patient-friendly JPEG download (no DICOM knowledge needed)
+- Email integration with pre-filled study details
+- JWT auth with session timeout warnings
+- Immutable audit log — every action tracked
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+| Dashboard | Study Viewer + Sharing | Patient Portal |
+|:---------:|:---------------------:|:--------------:|
+| <img src="https://raw.githubusercontent.com/tr00x/MiniPACS/master/docs/assets/screenshots/dashboard.png" width="280" /> | <img src="https://raw.githubusercontent.com/tr00x/MiniPACS/master/docs/assets/screenshots/share-qr.png" width="280" /> | <img src="https://raw.githubusercontent.com/tr00x/MiniPACS/master/docs/assets/screenshots/patient-portal.png" width="280" /> |
+
+[**GitHub**](https://github.com/tr00x/MiniPACS) · **React + FastAPI + Orthanc + OHIF** · **For licensing inquiries: tr00x@proton.me**
+
+</div>
+
+<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"></div>
+
 ## 🏆 Featured projects
 
 <div align="center">
